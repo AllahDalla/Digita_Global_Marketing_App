@@ -4,13 +4,10 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This prject is dedicated to Digita Global Marketing Ltd.
+It displays information on Digita Global and gives a link to the redesigned website.
+The appplication apk, which is built with no sound null safety is 6mb in total.
+To download apk file, go to build/app/outputs/flutter-apk/app-armeabi-v7a-release.apk
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+App is fully functional on Android Oreo and up
+App version is 1.0
